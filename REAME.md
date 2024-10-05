@@ -1,0 +1,1 @@
+This directory marks the beginning of my specialization journey with ALX, focusing on JavaScript. It contains all the projects I have completed as part of this specialization, covering various concepts and applications in JavaScript.
